@@ -19,6 +19,6 @@ To run the project locally:
 ```bash
 git clone https://github.com/your-username/social-proof-section.git
 cd social-proof-section
-npm install
-npm run dev
+bun install
+bun run dev
 <
